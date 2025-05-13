@@ -1,0 +1,10 @@
+
+export EMBEDDING_BINDING=ollama
+export EMBEDDING_MODEL=mxbai-embed-large
+export EMBEDDING_BINDING_HOST=http://localhost:11434
+export EMBEDDING_DIM=786
+
+export LLM_BINDING=openai
+export LLM_MODEL=gpt-4.1-nano
+exportLLM_BINDING_HOST=https://api.openai.com/v1
+export LLM_BINDING_API_KEY=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

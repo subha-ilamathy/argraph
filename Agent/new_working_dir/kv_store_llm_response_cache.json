@@ -1,0 +1,436 @@
+{
+  "hybrid": {
+    "5f0b5bd0095d4c2114e5c5ef882922a2": {
+      "return": "{\"high_level_keywords\": [\"Research problem definition\", \"Research field\"], \"low_level_keywords\": [\"Core problem\", \"Chosen research field\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the core problem definition for the chosen research field?"
+    },
+    "8e1c054e34a26921c90cbb5604a16228": {
+      "return": "{\"high_level_keywords\": [\"Historical context\", \"Evolution\", \"Field\"], \"low_level_keywords\": [\"Time periods\", \"Development stages\", \"Key figures\", \"Milestones\", \"Changes over time\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the historical context and evolution of this field?"
+    },
+    "4612127bd1178a5a069d436fcb537010": {
+      "return": "{\"high_level_keywords\": [\"Research challenges\", \"Research field\", \"Scientific research\"], \"low_level_keywords\": [\"Key challenges\", \"Researchers\", \"Field-specific issues\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the key challenges researchers have faced in this field?"
+    },
+    "dfee09067eb1397e708b7b7aea3c6c62": {
+      "return": "{\"high_level_keywords\": [\"Breakthroughs\", \"Milestones\", \"Achievements\"], \"low_level_keywords\": [\"Significant breakthroughs\", \"Historical milestones\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What have been significant breakthroughs and milestones?"
+    },
+    "e543c6a0b3711d783e4a8242c2cb72c4": {
+      "return": "{\"high_level_keywords\": [\"State of the art\", \"Literature surveys\", \"Research field\"], \"low_level_keywords\": [\"Recent literature\", \"Survey methods\", \"Research trends\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the current state of the art in recent literature surveys in this field?"
+    },
+    "dfa18e40411b4da0f3b8e12c06dda686": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Machine learning\", \"Artificial intelligence\"], \"low_level_keywords\": [\"model merging in machine learning\", \"AI\", \"combining models\", \"ensemble methods\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is model merging in machine learning and AI?"
+    },
+    "2954bc8770412871500766b9da966d10": {
+      "return": "{\"high_level_keywords\": [\"Historical context\", \"Evolution\", \"Model merging\"], \"low_level_keywords\": [\"Model integration\", \"Machine learning models\", \"Algorithm development\", \"Model combination techniques\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the historical context and evolution of model merging?"
+    },
+    "939eb27804d8a4b5b5bf3aef59ae4d06": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Core problem definitions\", \"Field of study\"], \"low_level_keywords\": [\"Core problem\", \"Definitions\", \"Model integration\", \"Merging techniques\", \"Challenges in model merging\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the core problem definitions in the field of model merging?"
+    },
+    "4c55f95dd1818920d106693ef00932bf": {
+      "return": "{\"high_level_keywords\": [\"Model merging research\", \"Challenges\", \"Research difficulties\"], \"low_level_keywords\": [\"Key challenges\", \"Model integration\", \"Compatibility issues\", \"Algorithm complexity\", \"Data consistency\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the key challenges encountered in model merging research?"
+    },
+    "6613a9ed18536ebd2c917459f3d110b1": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Breakthroughs\", \"Milestones\"], \"low_level_keywords\": [\"Significant breakthroughs\", \"Model merging techniques\", \"Evolution of methods\", \"Key developments\", \"AI models\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the significant breakthroughs and milestones in model merging?"
+    },
+    "199962658ff500405cc904fe649c30ee": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"State-of-the-art\", \"Machine learning techniques\"], \"low_level_keywords\": [\"current state\", \"methods\", \"algorithms\", \"ensemble methods\", \"neural networks\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the current state-of-the-art in model merging?"
+    },
+    "9d9f53d4a2bef20d4d5d58e4b08c96ed": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Machine learning\", \"Artificial intelligence\"], \"low_level_keywords\": [\"Define\", \"Context\", \"AI\", \"Machine learning\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Define 'model merging' in the context of machine learning and AI."
+    },
+    "2854cdadc6a319aba2a2bf8d55d7e00b": {
+      "return": "{\"high_level_keywords\": [\"Motivations for merging models\", \"Model integration\", \"Model combination\"], \"low_level_keywords\": [\"Survey\", \"main motivations\", \"merging models\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Survey: what are the main motivations for merging models?"
+    },
+    "d043f47d6e07d95fceaf6137827a005c": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Research history\", \"Documented approaches\"], \"low_level_keywords\": [\"First approaches\", \"Papers\", \"Documentation\", \"Methodologies\", \"Algorithms\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the first documented approaches or papers on model merging?"
+    },
+    "78750dd2cc81336837262fb18cd5ab04": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Problems addressed\"], \"low_level_keywords\": [\"Data integration\", \"Model compatibility\", \"Parameter alignment\", \"Error reduction\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are typical problems that model merging is used to address?"
+    },
+    "37a877c085cb21037392129bde054fc1": {
+      "return": "{\"high_level_keywords\": [\"Technical challenges\", \"Conceptual challenges\", \"Model merging\"], \"low_level_keywords\": [\"Model integration\", \"Compatibility issues\", \"Parameter alignment\", \"Knowledge transfer\", \"Model architecture\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are known technical and conceptual challenges in model merging?"
+    },
+    "57ae53a8e047b5a13ba2fb9ccb81895b": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Milestones\", \"Breakthroughs\"], \"low_level_keywords\": [\"Major milestones\", \"Model integration\", \"Algorithm improvements\", \"Artificial intelligence\", \"Machine learning\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What have been major milestones or breakthroughs in model merging?"
+    },
+    "9925802094bb6f49839c7f610e86171e": {
+      "return": "{\"high_level_keywords\": [\"Model merging methods\", \"Advancements\", \"2023-2024\"], \"low_level_keywords\": [\"Recent developments\", \"Machine learning models\", \"Ensemble techniques\", \"Neural network integration\", \"Algorithm improvements\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the most recent advancements in model merging methods as of 2023-2024?"
+    },
+    "39a3c650e51e7a415f834b09c6bb1d73": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Deep learning\", \"Literature\"], \"low_level_keywords\": [\"Definition\", \"Model\", \"Merging\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the definition of model merging in deep learning literature?"
+    },
+    "adb3e0d097847355aacea3144746a8be": {
+      "return": "{\"high_level_keywords\": [\"Neural network models\", \"Model merging\", \"Model combination\"], \"low_level_keywords\": [\"approaches\", \"techniques\", \"ensemble methods\", \"model averaging\", \"transfer learning\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are common approaches to combining or merging neural network models?"
+    },
+    "83483fd25f79d1ff94d710e850a55898": {
+      "return": "{\"high_level_keywords\": [\"Neural network models\", \"Model merging\", \"Machine learning challenges\"], \"low_level_keywords\": [\"Neural networks\", \"Model integration\", \"Model compatibility\", \"Training data\", \"Model performance\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the challenges when merging neural network models?"
+    },
+    "37a097101f5e5e6bd3a49726ddfe7e04": {
+      "return": "{\"high_level_keywords\": [\"Neural networks\", \"Merge-and-compare\"], \"low_level_keywords\": [\"merge-and-compare\", \"neural networks\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is 'merge-and-compare' in neural networks?"
+    },
+    "f57648e15411f379a89b56680dd23513": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Large language models\", \"AI advancements\"], \"low_level_keywords\": [\"Breakthroughs\", \"Techniques\", \"Algorithms\", \"Model integration\", \"Performance improvements\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What breakthroughs occurred in model merging for large language models?"
+    },
+    "c1182d8563c77b7d6affdb607a60e228": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Deep learning\", \"Artificial Intelligence\"], \"low_level_keywords\": [\"Survey papers\", \"Reviews\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Survey papers or reviews on model merging in deep learning and AI."
+    },
+    "8da227914da191c890e4fe703c8eeed7": {
+      "return": "{\"high_level_keywords\": [\"Neural networks\", \"Parameter merging\", \"Weight fusion\"], \"low_level_keywords\": [\"Key papers\", \"Neural network\", \"Parameter\", \"Weight\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Key papers on neural network parameter merging or weight fusion."
+    },
+    "631a445395c5e2a176b931425118771e": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Large foundation models\", \"LLMs\", \"Recent research\"], \"low_level_keywords\": [\"2022-2024\", \"papers\", \"model merging techniques\", \"foundation models\", \"large language models\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Recent (2022-2024) papers on model merging for large foundation models or LLMs."
+    },
+    "85b0335d89deb31b2c575eef16e68f11": {
+      "return": "{\"high_level_keywords\": [\"Technical challenges\", \"Model merging\", \"Limitations\"], \"low_level_keywords\": [\"papers\", \"repeatedly mentioned\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Technical challenges and limitations repeatedly mentioned in model merging papers."
+    },
+    "44eb5915124a209d1ab1cfc6384910dd": {
+      "return": "{\"high_level_keywords\": [\"Theoretical foundations\", \"Model merging approaches\"], \"low_level_keywords\": [\"model merging\", \"approaches\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Theoretical foundations of model merging approaches."
+    },
+    "878b3c894f0c3bacb6b3edcfbe363b68": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Machine learning techniques\", \"Ensemble methods\", \"Federated learning\", \"Multitask language models\"], \"low_level_keywords\": [\"Documented applications\", \"Federated learning\", \"Multitask LMs\", \"Ensemble methods\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Documented applications of model merging (e.g., federated learning, multitask LMs, ensemble methods)."
+    },
+    "451a8b2667c7c344d12ec693e2a4b162": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Machine learning\"], \"low_level_keywords\": [\"Model combination\", \"Ensemble methods\", \"Model integration\", \"Algorithms\", \"Predictive models\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is model merging in machine learning?"
+    },
+    "73d4b0a3148a086f0c3a115bfe663536": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Historical evolution\"], \"low_level_keywords\": [\"Model integration methods\", \"Machine learning models\", \"Ensemble techniques\", \"Development timeline\", \"Algorithm improvements\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How has model merging evolved historically?"
+    },
+    "54dc2b3bce13f994fc9899a9441d15dd": {
+      "return": "{\"high_level_keywords\": [\"Model merging research\", \"Challenges\"], \"low_level_keywords\": [\"Model integration\", \"Compatibility issues\", \"Data consistency\", \"Algorithm complexity\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the key challenges in model merging research?"
+    },
+    "4f140e51bbf2ef51d7550a87fe0a6c08": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"State of the art\", \"Machine learning techniques\"], \"low_level_keywords\": [\"current state\", \"model integration methods\", \"ensemble models\", \"neural networks\", \"algorithm advancements\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is the current state of the art in model merging?"
+    },
+    "768e4da8d3647135b074faa1e2442a13": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Deep learning\", \"Neural networks\"], \"low_level_keywords\": [\"concept\", \"definition\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Define the concept of model merging in deep learning and neural networks."
+    },
+    "a54675e14ae6652f2310bb0f557ded66": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Machine learning\", \"Purposes\", \"Applications\"], \"low_level_keywords\": [\"Main purposes\", \"Applications of model merging\", \"Ensemble methods\", \"Model integration\", \"Performance improvement\", \"Knowledge transfer\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Summarize the main purposes and applications of model merging in machine learning."
+    },
+    "aafe240640298aa13148e320ae7c6229": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Foundational papers\", \"Highly cited papers\"], \"low_level_keywords\": [\"Machine learning models\", \"Ensemble methods\", \"Model combination\", \"Research citations\", \"Academic publications\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "List foundational or highly cited papers on model merging."
+    },
+    "ceaa90c264cfd3cface5d99be11b9add": {
+      "return": "{\"high_level_keywords\": [\"Historical context\", \"Model merging\", \"Literature review\"], \"low_level_keywords\": [\"Earliest approaches\", \"Model combination methods\", \"Literature sources\", \"Historical development\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Describe historical context and earliest approaches to model merging in the literature."
+    },
+    "168212659082e16dabe0d1ead031e394": {
+      "return": "{\"high_level_keywords\": [\"Model merging research\", \"Challenges\"], \"low_level_keywords\": [\"primary challenges\", \"research difficulties\", \"algorithm compatibility\", \"data consistency\", \"model integration\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What primary challenges have been encountered in model merging research?"
+    },
+    "ffca57464f59ca840cb57e3588e259f0": {
+      "return": "{\"high_level_keywords\": [\"Machine learning\", \"Model merging\", \"Literature terminology\"], \"low_level_keywords\": [\"Alternative terms\", \"Model merging\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are alternative terms for model merging in machine learning literature?"
+    },
+    "611fad8d82f0decd794b5ab8e8e2eb17": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Neural networks\", \"Survey papers\", \"Comprehensive reviews\"], \"low_level_keywords\": [\"Model fusion\", \"Ensemble methods\", \"Knowledge distillation\", \"Layer integration\", \"Neural network architectures\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Survey papers or comprehensive reviews on model merging in neural networks."
+    },
+    "e5cbfafc212b358bc5980faab6bd1c46": {
+      "return": "{\"high_level_keywords\": [\"Deep learning\", \"Model optimization\", \"Parameter merging\"], \"low_level_keywords\": [\"Weight merging\", \"Parameter merging\", \"Neural networks\", \"Model training\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What is parameter merging or weight merging in deep learning?"
+    },
+    "2e8229839e56343d2bc29c2db5dbe982": {
+      "return": "{\"high_level_keywords\": [\"Model merging\", \"Federated learning\", \"Distributed training\", \"Problems solving\"], \"low_level_keywords\": [\"Model aggregation\", \"Data privacy\", \"Communication efficiency\", \"Model heterogeneity\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What problems does model merging solve in federated learning or distributed training?"
+    },
+    "1c7fd054baa495d24445f59b603cca57": {
+      "return": "{\"high_level_keywords\": [\"Machine learning techniques\", \"Model optimization\", \"Knowledge transfer\"], \"low_level_keywords\": [\"Model merging\", \"Ensemble learning\", \"Model distillation\", \"Transfer learning\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Are there related concepts to model merging in ensemble learning, model distillation, or transfer learning?"
+    },
+    "e5705826f12669a047407b3dc1e55258": {
+      "return": "{\"high_level_keywords\": [\"Neural network weight merging\", \"Model optimization techniques\"], \"low_level_keywords\": [\"weight averaging\", \"interpolation\", \"fusion\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Review: techniques for merging neural network weights (model weight averaging, interpolation, or fusion)."
+    },
+    "eda2af274b26d842be8ed7295e83e80d": {
+      "return": "{\"high_level_keywords\": [\"Federated Averaging\", \"model merging\", \"distributed learning\"], \"low_level_keywords\": [\"FedAvg\", \"foundational paper\", \"model\", \"relation\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Foundational paper: Federated Averaging (FedAvg) and its relation to model merging."
+    },
+    "b4b40ab13c7dfe3e67102402075a3cdc": {
+      "return": "{\"high_level_keywords\": [\"Ensemble modeling\", \"Neural network merging\", \"Model combination methods\"], \"low_level_keywords\": [\"ensemble model\", \"direct neural model merging\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Methods for ensemble model combination vs. direct neural model merging."
+    },
+    "034c60082140cd1d2e9b90a62ec051fb": {
+      "return": "{\"high_level_keywords\": [\"Knowledge distillation\", \"Parameter-based model merging\", \"Model compression\", \"Machine learning techniques\"], \"low_level_keywords\": [\"Comparison\", \"Knowledge distillation\", \"Parameter-based\", \"Model merging\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Comparison: Knowledge distillation vs. parameter-based model merging."
+    },
+    "b3ee7af55fb07a36d7e06165e7a50743": {
+      "return": "{\"high_level_keywords\": [\"Neural networks\", \"Transfer learning\", \"Model adaptation\", \"Model compositionality\"], \"low_level_keywords\": [\"LoRA\", \"Low Rank Adaptation\", \"merging\", \"advances\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Recent advances in neural network merging for transfer learning, LoRA (Low Rank Adaptation), or model compositionality."
+    }
+  }
+}

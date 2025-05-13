@@ -1,0 +1,479 @@
+Topic: Evolutionary Model Merging
+
+Initial Exploration - Broad Domain Understanding
+Literature Survey - Evolutionary Model Merging: Initial Exploration (Step 1)
+
+Core problem definitions: What is evolutionary model merging? What problems does this field seek to solve?
+Historical context and evolution: How did the idea of evolutionary model merging arise, and how has it evolved?
+Key challenges: What have been the main challenges in model merging, especially with evolutionary algorithms?
+Significant breakthroughs: What key milestones or breakthroughs define this field?
+Current state of the art: What are the most current and influential approaches or techniques in evolutionary model merging?
+
+Received no-context errors from the oracle for the initial broad queries about evolutionary model merging. Possible reasons:
+- The term might be ambiguous or not broadly established in the literature; alternate phrasings or subtopic clarifications might be needed.
+- The concept might be covered under related terms (e.g., model fusion, ensemble merging, evolutionary model synthesis, etc.)
+
+Plan: Reformulate queries by:
+1. Trying synonyms and closely related concepts (model fusion, model combination, evolutionary ensemble learning, evolutionary neural network merging, etc.)
+2. Asking for papers that use 'evolutionary' methods in model combination or merging, broadly across machine learning domains.
+
+Oracle continues to return no-context errors for variety of related terms (model fusion, evolutionary ensemble learning, evolutionary merging in neural networks, etc.)
+
+Adaptation plan:
+- Ask for specific papers or authors on "evolutionary model merging"
+- Query for papers involving model merging or fusion with genetic algorithms/evolutionary strategies EN MASSE, to see if the literature is scattered under bespoke approaches/names.
+- Try asking about combinations of terms: (evolutionary AND model fusion), (genetic algorithm AND model merging), (evolutionary AND ensemble learning), (model merging with evolutionary computation), etc.
+
+Extensive queries using synonymic search and related terms returned no-context responses from the oracle. This may indicate either extremely limited coverage in the oracle's knowledge base, high fragmentation of terminology (i.e., it's not indexed as a formal topic), or that the field may have only niche or emerging representation.
+
+Next step: Examine if the oracle can provide an answer when asked for a definition or overview of 'model merging' in general machine learning contexts, independent of evolutionary qualifiers. Then, inquire separately about the intersection of evolutionary algorithms with model synthesis or creation tasks. If literature comes up separately, study the intersection manually based on the results.
+All attempts to extract information from the oracle on evolutionary model merging and related terms ('model fusion', 'ensemble learning', 'model combining', in connection to evolutionary algorithms or genetic algorithms) have resulted in 'no-context' responses.
+
+Interim conclusions:
+- The field may not be codified as a formal area in available literature, or is represented in very fragmented/heterogeneous terminology.
+- The oracle’s knowledge base may lack coverage, or documentation may be too sparse for keyword-based extraction.
+
+Next step: Proceed based on a plausible reconstruction of the topic, with proper caveats. Outline the literature survey template, explain the situation, and base the survey on adjacent, documented practices (e.g., ensemble learning with evolutionary algorithms, genetic model architecture search, neural network merging via evolutionary strategies, etc.), referencing the limits encountered.
+
+Record this scenario and begin to sketch the outline accordingly.
+Survey topic: Evolutionary Model Merging
+
+Step 1: Initial Exploration – planning questions for oracle:
+    a. What is evolutionary model merging? What are its core problem definitions?
+    b. What is the historical context and evolution of evolutionary model merging?
+    c. What key challenges have researchers faced in evolutionary model merging?
+    d. What milestones and breakthroughs have marked the field?
+    e. What is currently considered the state of the art in evolutionary model merging?
+
+Step 2: Once basic landscape is sketched, move to methods investigation.
+
+Step 3: Gap analysis and synthesis.
+Begin survey on Graph Neural Networks (GNNs).
+
+Step 1: Initial Exploration
+- Core problem definitions
+- Historical context and evolution
+- Key challenges
+- Significant breakthroughs and milestones
+- Current state of the art
+
+Step 2: Methodological Investigation
+Identify primary methodological approaches (hypothesis: spectral-based GNNs, spatial-based GNNs, attention-based GNNs, and higher-order GNNs)
+
+Step 3: Critical Gap Analysis
+- Look for methodological, theoretical, application, population/sample, and measurement gaps
+
+Step 4: Cross-Pollination Exploration
+- Methodologies and frameworks shared between sub-areas or adjacent fields
+
+Step 5: Future Directions Investigation
+- Proposed future work, emerging trends, barriers
+
+Record references for each oracle answer for the final survey.
+Initial Exploration: LLMs for Parallel Code
+
+Step 1: Initial Exploration
+Questions:
+- What are the core problem definitions regarding the use of large language models (LLMs) for parallel code?
+- How has the field of using LLMs for the generation or analysis of parallel code evolved over time?
+- What key challenges have researchers faced when applying LLMs to parallel code tasks?
+- What have been significant breakthroughs or milestones in this research area?
+- What is considered the current state of the art in using LLMs for parallel code?
+Task: Literature Survey on Large Language Models (LLMs) for Parallel Code
+
+Step 1: Initial Exploration (Broad Questions)
+- What are the core problem definitions associated with using LLMs for parallel code?
+- What is the historical context and evolution of employing AI and LLMs for parallel programming?
+- What have been the key challenges and bottlenecks faced in this field?
+- What are considered significant breakthroughs and milestones (e.g., new models, benchmarks, capabilities)?
+- What is the current state of the art in using LLMs for parallel code (both research and practical applications)?
+Step 2: Identify Methodological Approaches
+
+Candidate methodologies in the field of LLMs for parallel code:
+- General-purpose LLMs (e.g. GPT-3.5, GPT-4) zero-shot or few-shot applied to parallel code
+- Domain-specific fine-tuned LLMs (e.g., HPC-Coder, HPC-Coder-V2)
+- Prompt engineering and code translation approaches
+- Benchmark and evaluation framework development (e.g., ParEval)
+
+Subsequent queries (for each):
+1. How does the methodology work?
+2. What are its theoretical foundations?
+3. When and why was it developed?
+4. What problems does it address effectively?
+5. Documented limitations
+6. Evolution over time
+
+Begin with general-purpose LLMs and domain-specific fine-tuned LLMs.
+Step 2 continued: Record on Prompt Engineering, Translation, and Benchmarks
+
+- Prompt engineering/code translation approaches:
+  - How does prompt engineering improve LLM performance in parallel code generation?
+  - What strategies are used for translating code between parallel models (e.g., serial to OpenMP, MPI, etc.) using LLMs?
+  - What are limitations and strengths of prompt engineering for parallel code?
+  - Evolution and trends in prompt engineering for LLMs in HPC.
+
+- Benchmarks/evaluation frameworks (e.g., ParEval):
+  - How is ParEval designed and used to evaluate LLMs for parallel code?
+  - What are its evaluation metrics (correctness, performance, scalability, etc.)?
+  - What insights has ParEval provided about strengths/limitations in LLMs?
+  - Are there other benchmarks, and how do they compare?
+Step 3: Critical Gap Analysis - Plan
+- Probe for limitations cited in literature (e.g., correctness, efficiency, scalability issues of LLMs in parallel code)
+- Investigate theoretical or methodological gaps (Do LLMs address all parallel paradigms equally? Edge case failures?)
+- Look for implicit gaps in dataset construction, evaluation metrics, or real-world applicability
+- Ask about population/sample gaps (e.g., underrepresented parallel frameworks/languages in training data)
+- Examine evaluation/measurement gaps
+- Seek out contradictions or divergent findings between studies
+
+Proceed to query for explicit and implicit research gaps as reported in major studies and benchmarks like ParEval, as well as emerging critiques or debates in the area.
+Step 4: Cross-Pollination Exploration - Plan
+- Have methods from LLM code generation for serial code or other subdomains been applied to parallel code? Outcomes?
+- Are there known conceptual frameworks or synergies linking LLM performance between parallel and serial code tasks?
+- Have approaches from other AI/ML fields (e.g., program synthesis, program verification, neural-symbolic methods) been used or proposed for LLMs and parallel code?
+- Are there adjacent research domains (e.g., compiler optimization, formal methods, software verification) that offer insights transferable to LLMs for parallel code?
+
+Proceed to query the oracle for evidence and proposals of such cross-pollination, transfer, or conceptual synthesis in the literature.
+Step 5: Future Directions - Planning and Query Focus
+- What future work or open questions have been proposed in literature for LLMs and parallel code?
+- What are the main technological or theoretical advances needed for progress? (e.g., data, training, algorithms, evaluation)
+- What practical or infrastructural barriers limit field progress or model adoption?
+- Are there any trends in model architecture, training strategies, or cross-disciplinary integration being proposed?
+- Ask about emerging directions for theory, benchmarks, and real-world application of LLMs to parallel code.
+Literature Survey: Can an LLM Write Parallel Code?
+
+Outline (Working Draft and Notes)
+
+Introduction:
+- LLM-driven parallel code generation is an emerging intersection of NLP/code synthesis and high-performance computing (HPC).
+- Motivation: Large-scale computational problems increasingly rely on parallelization for efficiency; automating correct and robust parallel code generation would democratize HPC and accelerate scientific research.
+- Scope: Focus on LLMs (e.g., GPT-3/4, CodeLlama, StarCoder) and their variants in generating and understanding parallel code (MPI, OpenMP, CUDA, HIP, Kokkos).
+- Objectives: Provide a critical review of (1) methodological advances, (2) empirical performance and limitations, (3) gaps and challenges, (4) future research/practical directions.
+
+Literature Review (Main Body):
+1. Defining Parallel Code in LLM Context
+   - Parallel code: Programs leveraging concurrency on multiple processing units (multithreaded CPUs, GPUs, clusters).
+   - LLMs’ task: Translate natural language, comments, or serial code into executable, efficient parallel programs; support multiple frameworks/models (MPI, OpenMP, CUDA, HIP, Kokkos).
+   - Reference: Nichols et al. (2024) “Can Large Language Models Write Parallel Code?”
+2. Historical Context and Evolution
+   - Early code models: Syntax/statistical models established that code is more predictable than language (Chen et al. 2021).
+   - Transformer models (e.g. GPT-3): Big shift; trained on GitHub datasets (The Stack, The Pile), enabling basic code generation, including parallel kernels.
+   - Codex, CodeLlama, StarCoderBase, and HPC-specific fine-tuned models (HPC-Coder series, HPCCoder) mark recent milestones.
+   - Benchmarks (HumanEval, MBPP, ParEval) systematized evaluation; exposed success in simple cases and limits in HPC/complex kernels.
+   - Ref: Nichols et al. (2024); Godoy et al. (2023); Chaturvedi et al. (2024)
+
+3. Key Challenges and Milestones
+   - Intrinsic challenges: Ensuring correctness (race conditions, sync, data dist.), efficiency, resource utilization, and optimizing for specific hardware.
+   - Data bottlenecks: Scarcity of high-quality parallel code data; some domains underrepresented (HIP, Kokkos, Fortran).
+   - Complexity barrier: LLMs struggle with long-range dependencies, complex control, or multi-paradigm code (e.g. MPI+GPU).
+   - Evaluation bottleneck: Weak test suites, inadequate metrics for performance/scalability, pass@k insufficient for HPC.
+   - Milestones: ParEval (Nichols 2024) as wide-scope benchmark; Codex, GPT-4, HPC-Coder-V2 as top-performing models (for accuracy, though not efficiency).
+
+4. Methodological Approaches
+   - Supervised Fine-Tuning: Domain adaptation using high-quality paired HL description + code data (HPC-INSTRUCT, ParEval); boosts performance but risks overfitting/data dependency.
+   - Prompt Engineering: Careful prompt design (task-specific, paradigm-specific, chain-of-thought); helps accuracy esp. in low-data settings but is brittle/sensitive to prompt.
+   - Retrieval-Augmented & Translation-Driven: Use retrieval of code/docs for grounding; translate serial to parallel or OpenMP to MPI, etc.; effective for leveraging prior code patterns—strong on translation benchmarks.
+   - Domain-tokenizers/Custom Tools: HPC-specific tokenization (TOKOMPILER; domain-specialized APIs/call integration).
+   - Reference: Nichols et al. (2024); Chaturvedi et al. (2024); NeurIPS-2020 RAG paper
+
+5. Comparative Performance and Critical Analysis
+   - GPT-4 > GPT-3.5 > CodeLlama; domain-finetuned models can match/be better than large models on specialized tasks.
+   - Pass@1 accuracy for many frameworks now >50% for basic problems but still <15% for efficiency/scalability.
+   - Success in translation between frameworks (serial⇔OpenMP, CUDA⇔Kokkos), especially when prompts/examples guide the process.
+   - Notable weaknesses: Low efficiency, poor at complex or dynamic kernels, brittle on rare frameworks, fails in edge cases (dynamic scheduling, multi-framework codes, advanced synchronization/data locality).
+
+6. Gaps and Open Questions
+   - Methodological: Evaluation does not capture all correctness (runtime bugs, races, hardware-specific issues) or efficiency nuances.
+   - Theoretical: LLMs limited in high-level reasoning/abstraction over parallel algorithms, lacking explicit architectural/generalization models.
+   - Applicational: Most LLM-generated code non-production-ready; low uptake in enterprise/scientific workflows.
+   - Data/sample: Datasets biased toward popular frameworks/languages; underrepresentation of edge-case kernels, niche languages, and multi-framework/hybrid codes.
+   - Measurement: Existing metrics (pass@k, resource utilization) often too coarse for real-world HPC use.
+   - Literature shows consensus around these limits; no fundamental contradictions, but strong recognition of efficiency gap.
+
+7. Cross-Pollination and Methodological Synergy
+   - Retrieval-augmented and translation approaches proven in other multilingual/code translation settings; edit-and-retrieve, RAG, and code adaptation methods ported to HPC.
+   - No formal unified framework yet; DSPy and “modular pipeline” ideas suggest synergies possible (combining prompt design, retrieval, fine-tuning in a feedback/optimization loop).
+   - Techniques from AI planning, program synthesis, and hardware-level optimization entering LLM-based code gen (e.g., explicit parallel pattern languages, meta-learning, hardware-aware optimization cues).
+
+8. Future Directions and Barriers
+   - Research proposals: Improved datasets (quality/diversity), efficient and structured domain-specific LLMs, integration with code verification, and automatic performance modeling.
+   - Trends: More synthetic/high-quality data, specialized LLMs with explicit hardware/performance constraints, benchmarking (ParEval, HPC-INSTRUCT).
+   - Required advances: Structured knowledge infusion (graphs, patterns), performance-aware LLM training, scaling beyond “just correctness” to efficient/portable codes.
+   - Practical barriers: Model inefficiency, lack of robust evaluation, transparency/trust, proprietary datasets, high compute cost, organizational inertia in adopting LLM-generated codes.
+
+Conclusion (to be drafted after body)
+- Synthesize findings; summarize the strengths and limitations of current LLMs in parallel code, identify open challenges, and recommend directions for research and practical work.
+
+References: [track all papers cited above by file name]
+
+Research focus: Application of Large Language Models (LLMs) to parallel code (generation, comprehension, optimization, translation, and analysis).
+
+Initial Exploration Plan:
+- Query the oracle regarding:
+   - Core definitions of “parallel code/parallel programming” as they pertain to LLMs
+   - Historical context: evolution of applying ML/AI (especially LLMs) to parallel code
+   - Key challenges (why is parallel code distinct/hard for LLMs?)
+   - Notable breakthroughs/milestones (e.g., first application of LLMs, notable benchmarks)
+   - Current state-of-the-art (top-performing models, datasets, evaluation practices)
+
+As I proceed, I will document the answers, highlight areas that need deep-dive (e.g., code generation vs code comprehension), and keep track of references cited by the oracle.
+Key Concepts Extracted (Stage 1):
+
+- Parallel code: Program code that enables concurrent computation for increased efficiency, often employing paradigms like MPI, OpenMP, CUDA, Kokkos (Nichols et al., 2024).
+- LLMs & parallel code: LLMs must master not just syntax but also distributed algorithms, performance/scalability, data distribution, and synchronization (Nichols et al., 2024).
+- Historical context: Statistical code modeling → neural models (RNNs, transformers) → LLMs trained on large code corpora (GPT, StarCoder, CodeLlama, etc.), with focused benchmarks emerging (ParEval, HPC-INSTRUCT) (Chen et al., 2021; Nichols et al., 2024; Schmitz et al., 2024; Chaturvedi et al., 2024).
+- Key challenges: Scarcity of high-quality parallel code in training data, complexity of parallel algorithms (esp. MPI/distributed), models often generate syntactically correct but inefficient code, difficulty in translation between different parallel paradigms (Nichols et al., 2024).
+- Breakthroughs: Specialized benchmarks (ParEval), open-source domain-specific models (HPC-Coder-V2), improved fine-tuning with HPC datasets, translation tools between execution models, new evaluation metrics (speedup, efficiency, pass@k) (Nichols et al., 2024; Chaturvedi et al., 2024).
+- State-of-the-art: HPC-Coder-V2 (fine-tuned, open-source), GPT-4 (proprietary), robust benchmarking with Pass@k and performance metrics, datasets like HPC-INSTRUCT underpin progress (Nichols et al., 2024; Chaturvedi et al., 2024).
+
+Next: Methodological Investigation — identify key methodological approaches to LLMs for parallel code (e.g., general pre-trained models, fine-tuning on HPC domains, retrieval-augmented approaches, hybrid/static-analysis approaches).
+Methodological Approaches Identified (Stage 2):
+
+1. Application of general-purpose LLMs (GPT-3, Codex, StarCoder, CodeLlama):
+   - Theoretical foundations: transformer architectures, code+natural language corpus, scaling laws.
+   - Work well for simple/structural parallel code but falter on complex, performance-critical or scalable parallelism due to lack of deep domain expertise.
+   - Advantages: speed, task flexibility, serve as base models.
+   - Limitations: low resource usage efficiency, struggles with reasoning about performance or synchronization, heavy dependence on code diversity in the pretraining corpus.
+   - Evidence: Nichols et al., 2024; Chen et al., 2021; Godoy et al., 2023.
+2. Domain-specific fine-tuning (e.g., HPC-Coder, ParEval, use of HPC-INSTRUCT dataset):
+   - Fine-tune on synthetic or real HPC/parallel code, focusing on instruction-answer pairs, performance comments, and pragmatic labeling.
+   - Improves pragmatic correctness and scalability (e.g., open-source HPC-Coder-V2 matches or nearly matches GPT-4 on some benchmarks).
+   - Methodology: targeted fine-tuning, synthetic dataset generation, supervised learning with instruction masking.
+   - Evolving towards robust synthetic data, comprehensive benchmarks, and understanding tradeoffs in data representation.
+   - Evidence: Chaturvedi et al., 2024.
+3. Retrieval-augmented/tool-augmented LLMs:
+   - At inference, retrieve relevant documentation, code, or context to supplement the LLM’s latent knowledge; sometimes integrate static/dynamic analysis tools or code search.
+   - Benefits: improved factuality, less hallucination, can address complex/infrequent parallel programming scenarios.
+   - Challenges: prompt complexity, computational overhead, limited by external data coverage/relevance.
+   - Evidence: Domain Specialization as Key, NeurIPS 2020 RAG paper, Nichols et al., 2024.
+4. Hybrid LLM + Static/Dynamic Analysis:
+   - Combine LLM generative capabilities with automated code analyzers (static for compile-time, dynamic for runtime trace).
+   - Applications: bug detection, code debugging, performance optimization, verification (esp. for race/synchronization errors).
+   - Benefits: higher quality/robustness of parallel code.
+   - Limitations: struggles with highly dynamic or irregular codes, scalability overhead, integration complexity.
+   - Evidence: Chen et al., 2021; Schmitz et al., 2024.
+
+Ready for gap analysis: will explicitly query for known/explicit limitations, edge cases, theory gaps, and underexplored application/scenario contexts in the literature.
+Gap Analysis (Stage 3):
+
+- Methodological gaps:
+   - Benchmarks (e.g. ParEval) do not capture full HPC code complexity; prompts may overlap with training set (risk of data leakage, Nichols et al. 2024).
+   - Datasets biased towards simplified or common parallel patterns; weak test suites often fail to catch nuanced bugs.
+   - Metrics like pass@k focus on correctness but seldom real runtime, scalability, or resource efficiency.
+   - Few studies validate models on actual hardware, limiting real-world performance insights.
+- Theoretical gaps:
+   - Untested/poorly tested hypotheses about LLMs' ability to reason about scalability, synchronization, or adapt to new/novel parallel paradigms (e.g., Kokkos, irregular or emergent patterns).
+   - Unclear if LLMs internalize or generalize core theoretical concepts (Amdahl's, Gustafson's) for unseen challenges.
+- Application/population gaps:
+   - Limited or no exploration of LLMs' performance on legacy, highly complex, or domain-specialized HPC codes.
+   - Testing datasets lack coverage of user groups (scientific domains, industries) and practical deployment contexts.
+   - Specific lack of reliability for low-resource languages, frameworks, and emergent HPC codes.
+- Measurement/evaluation gaps:
+   - Lack of systematic metrics for real-world efficiency (runtime, scaling), robustness, or performance optimization quality.
+   - Absence of holistic, standardized, multi-faceted evaluation frameworks for practical HPC deployment.
+- Edge cases:
+   - LLMs underperform on dynamic/irregular workloads, deep nested parallelism, intricate dependencies (write-after-write, etc.).
+   - Struggle in scenarios with large search spaces, control/data-flow complexity.
+- No explicit contradictions in the literature; broad consensus around limitations and the need for holistic real-world assessment.
+
+Next: Cross-pollination exploration—look for frameworks, toolchains, or theories from adjacent fields (e.g., program synthesis, formal verification, systems, automated reasoning) that might benefit LLMs/parallel code.
+Cross-Pollination Insights (Stage 4):
+
+- Program synthesis/formal methods: Used to generate/add higher-quality benchmarks and provide code correctness validation (Chen et al., 2021; Nichols et al., 2024).
+   - Neural program learning offers a path for LLMs to learn more generalizable, theoretically grounded representations of parallel algorithms.
+- Formal verification & automated reasoning: Conceptual frameworks from these areas (esp. formal proofs/model checking) proposed for integration—e.g., verifying data race or deadlock absence; dependency graphs/control-flow models could help LLMs model complex parallelism (Nichols et al., 2024; Chaturvedi et al., 2024).
+- Explicit attempts to combine LLMs with autotuning, constraint solvers, or formal verifiers have NOT yet been deeply explored in joint systems. Tool-based correctness checks are used primarily for evaluation rather than as an active learning/optimization loop.
+- Insights from static analysis, scheduling, hardware-aware AI: Static and dependency analysis, robust scheduling heuristics, and hardware-aware code optimization (e.g., polyhedral models, kernel/gpu tuning)—possibility to fuse these techniques into LLM training, prompting, or refinement. Best results may emerge from hybrid pipelines employing LLMs for initial generation paired with automated analysis/tuning modules (Schmitz et al., 2024; Garg et al., 2022).
+- Suggestion: Integrating LLMs as part of an iterative system, where the model proposes parallel code and analysis/optimization modules provide feedback, holds promise for bridging current performance/correctness gaps.
+
+Ready for future direction queries.
+Future Directions and Barriers (Stage 5):
+
+- Future work and open problems:
+   - Improving correctness, efficiency, robustness on complex/scalable parallel algorithms (Nichols et al., 2024).
+   - Domain-adaptive training/fine-tuning, especially with limited/specialized data (Domain Specialization as Key, Chaturvedi et al., 2024).
+   - Systematic, multi-paradigm evaluation (e.g., richer ParEval) & advancing cross-paradigm code generation/translation.
+   - Integration of code analysis tools (race detectors, predictors, etc.) into generation pipelines; challenges in reliability/generalizability.
+- Emerging trends & approaches:
+   - Multimodal/pretrained models, e.g., combining vision + code for better code understanding in HPC.
+   - New domain-specific and synthetic data sources for training (HPC repositories, task-specific generators).
+   - Growing use of active learning, improved benchmarks, and new evaluation metrics covering performance, scalability.
+- Theoretical/tech advances likely to have most impact:
+   - Structured knowledge integration (knowledge graphs, program representations).
+   - Hybrid neural/program synthesis/formal verification frameworks for more reliable code.
+   - Architectural innovations (adapters, multi-modal systems incorporating real runtime/hardware feedback).
+- Practical barriers:
+   - Persistent inefficiency (low resource utilization) and limited ability for nuanced reasoning (e.g., dynamic or MPI-heavy codes).
+   - Sparse or non-representative training data for exotic/novel languages/frameworks.
+   - Safety risks: LLMs may suggest insecure or unsafe code.
+   - Scalability and transferability problems as deployment moves to “real” HPC settings; severe variability across models/frameworks.
+- Societal, deployment risks: Insecure code, unsafe practices, need for oversight/risk mitigation; specialized deployment infrastructures often needed.
+
+Ready to draft the literature survey. Structure: Thematic, grouping by core challenges and methodological advances, using chronology and problem-focus as sub-structure; will integrate references contextually throughout.
+Key references collected so far:
+1. Nichols et al. - 2024 - Can Large Language Models Write Parallel Code.pdf
+2. Nichols et al. - 2024 - HPC-Coder Modeling Parallel Programs using Large Language Models.pdf
+3. Chen et al. - 2024 - HPC-Coder-V2 Studying Code LLMs Across Low-Resource Parallel Languages
+4. ParEval: Prompts for Parallel Code Generation benchmarking framework
+Methodological approaches identified:
+1. Fine-tuning and domain-specific adaptation (HPC-Coder-V2)
+2. Prompt engineering/benchmarking (ParEval)
+3. Model selection and performance comparison (cross-model evaluation with metrics like pass@k, speedup, etc.)
+Fine-tuning summary:
+- Strong for domain adaptation and accurate parallel code on relevant data
+- Limited by dataset quality, resource needs, and may not generalize
+Prompt engineering summary:
+- Systematic, helps expose LLM limitations, critical for benchmarking
+- Prone to prompt sensitivity, may miss real-world diversity
+Model selection summary:
+- Necessary for fair cross-model comparison, identifies best model-task fit
+- Benchmarks may not cover all edge cases or practical HPC needs
+Critical gaps identified:
+- Methodological: Weak/incomplete test suites, lack of standardization, low resource efficiency, prompt sensitivity
+- Theoretical: Limited understanding of LLM reasoning in parallel contexts; lack of explanation on generalization/translation between paradigms
+- Application: Poor performance/scalability on real-world HPC, especially complex/unstructured domains
+- Population/sample: Underrepresentation of less common frameworks, proprietary data restricts diversity
+- Measurement: Correctness focused, lacking real-world performance/efficiency/energy assessment
+Cross-pollination: Techniques from compiler theory, program synthesis (spec/ASTs, benchmarks, formal verification), and AI for systems (domain adaptation, data augmentation) are being used for LLM-based parallel code generation, but true conceptual frameworks linking all methods remain undeveloped.
+References used so far:
+- Nichols et al. - 2024 - Can Large Language Models Write Parallel Code.pdf
+- Nichols et al. - 2024 - HPC-Coder-V2 Studying Code LLMs Across Low-Resource Parallel Languages.pdf
+- Nichols et al. - 2024 - HPC-Coder Modeling Parallel Programs using Large Language Models.pdf
+- Chen et al. - 2021 - Evaluating Large Language Models Trained on Code.pdf
+- Goues et al. (2012)
+
+Initial exploration complete: 
+- Parallel code generation using LLMs centers around GPT-3.5/4, CodeLlama, Phind-V2, with specialized models (HPC-Coder, HPC-Coder-V2).
+- Core problem: generating correct and efficient code for parallel paradigms (OpenMP, MPI, CUDA, etc.)
+- Historical context: transition from rule-based, symbolic, genetic programming to deep learning code models; LLMs trained on large source-code corpora transform code automation landscape.
+- Key challenges: complexity and specialization of parallel models (especially MPI/MPI+OpenMP), scarcity of high-quality datasets, difficulty with optimization/performance scaling, data synchronization, and correct usage of advanced constructs.
+- Significant breakthroughs: development of benchmarks like ParEval, fine-tuned models (HPC-Coder-V2), new performance/efficiency metrics, ability to translate across parallel models, accurate labeling of constructs (OpenMP pragmas).
+- State of the art: specialized models rivaling general LLMs, consistent underperformance on complex models (MPI, HIP), correct yet inefficient code, increased focus on benchmarking, and domain-specific fine-tuning.
+Methodological investigation:
+- Key identified approaches:
+ (1) Parallel code generation via systematic benchmark-driven prompt design (e.g., ParEval),
+ (2) Synthetic data generation and domain-specific fine-tuning (e.g., HPC-Coder-V2 using HPC-INSTRUCT),
+ (3) Instruction fine-tuning and masking,
+ (4) Automated translation between parallel models (serial→MPI/OpenMP/CUDA/etc.).
+- Theoretical foundations: transformer-based self-attention for modeling code, learning syntax and semantics of various parallel frameworks, probabilistic token sampling, domain adaptation/fine-tuning for HPC context, modeling dependencies/synchronization (esp. OpenMP/MPI constructs).
+- Benchmarking/evaluation: ParEval as central benchmark, pass@k and speedup/efficiency as core metrics, automatic compilation/testing, ablation studies for prompt/model/data impact, BLEU/ROUGE-L for code similarity.
+- Translation approaches: LLM translation between execution models often aids correctness, though not always efficiency (serial to OpenMP, CUDA to Kokkos, etc.), especially effective with larger/fine-tuned models.
+Next: Probe detailed gap analysis.
+Cross-pollination insights:
+- Formal methods and program synthesis offer frameworks for validating/generated code (formal verification as post-generation filter, program synthesis for constraint-based or spec-driven generation), promising for increasing robustness in LLM-based parallel code generation [Nichols et al., 2024; Chen et al., 2021].
+- Serial-then-parallel approach: Generating correct serial code first then parallelizing improves LLM accuracy in parallel code, leveraging synergy between baseline correctness and advanced parallel constructs [Nichols et al., 2024].
+- AI planning and automatic parallelization frameworks can be integrated with LLMs for task decomposition, resource allocation, application of parallel patterns, and performance/optimization feedback loops. Tools like Parallel Pattern Language (PPL), SDFGs, and DaCe align with this hybrid approach [Schmitz et al., 2024; Nichols et al., 2024].
+- Techniques from code translation, prompt engineering, and domain-specific fine-tuning are transferable between serial-to-parallel translation and native parallel synthesis [Nichols et al., 2024; Chaturvedi et al., 2024].
+- Compiler optimization, static analysis, and neural-symbolic integration can enhance both performance and correctness of LLM-generated code; integrated static analysis and resource-aware feedback loops are suggested [Nichols et al., 2024].
+Next: Record future directions and synthesize survey.
+Future directions:
+- Proposals include deeper performance analysis tools, automated code improvement, debugging, and performance-prediction instruments tailored for HPC developers [Chaturvedi et al., 2024].
+- Model innovation: fine-tuning on richer domain-specific datasets, advanced instruction masking, and translation across execution models. Goal: higher quality/efficient parallel code, improved translation, and robustness for complex/sync-heavy algorithms [Nichols et al., 2024].
+- Emphasis on performance-aware LLMs (not just correctness); using speedup, efficiency, and resource utilization metrics for optimization-aware generation [Nichols et al., 2024].
+- Integration of formal verification, program synthesis, and static/dynamic analysis into the LLM generation pipeline [Nichols et al., 2024].
+- Barriers: low code efficiency and correctness for complex models, data scarcity, integration/validation challenges, lack of practical tools and standardized evaluation for deployment [Nichols et al., 2024; Chen et al., 2021].
+- Emerging trends: retrieval-augmented and performance-aware LLMs, translation-driven workflows, AI planning, synthetic data generation, and hierarchical pattern languages (PPL, APTs), increasing focus on domain-adapted and hybrid guidance systems.
+---
+References for all sections have been tracked in scratchpad and through each query response; ready to weave into full survey draft.
+Initial Exploration Summary:
+- Core definitions: Parallel code generation with LLMs involves autogenerating code capable of correct, efficient, and scalable execution across multiple processing units, using paradigms like MPI, OpenMP, CUDA, Kokkos (Nichols et al., 2024). Ensuring both correctness and performance is central, as is translating across models and evaluating with realistic benchmarks (ParEval).
+- Historical context: Initially, general LLMs (Codex, GPT) were tested on basic code generation/trivial tasks. Challenges in parallel code prompted creation of specialized datasets, domain-specific models (HPC-Coder), and focused benchmarks (ParEval). 
+- Key challenges: Intrinsic difficulty of parallel programming (data distribution, synchronization); scarcity of quality parallel code datasets; limitations of current LLMs in reasoning about complex parallel problems; evaluation metrics focus too much on correctness, less on performance; interpretability, reproducibility, and domain-specific tuning remain issues (Chaturvedi et al., 2024).
+- Breakthroughs: ParEval comprehensive benchmark; strong baselines with GPT-3.5/4 and open models (CodeLlama, StarCoder); creation and fine-tuning of models like HPC-Coder(-V2); adoption of new evaluation metrics (speedup/efficiency@k); demonstration of LLMs doing translation between parallel models (e.g., OpenMP↔MPI). 
+- State of the art: LLMs (GPT-3.5/4, HPC-Coder-V2) reach up to 40% pass@1 on parallel code tasks (ParEval), with best open models nearing 32% with fine-tuning. Parallel code correctness, efficiency, and scalability still lag behind serial code equivalents, especially for complex models like MPI. Domain-specific tuning (HPC-Coder) can close gap with large LLMs in certain tasks.
+
+References:
+- Nichols et al. - 2024 - Can Large Language Models Write Parallel Code.pdf
+- Chaturvedi et al. - 2024 - HPC-Coder-V2 Studying Code LLMs Across Low-Resource Parallel Languages.pdf
+- Nichols et al. - 2024 - HPC-Coder Modeling Parallel Programs using Large Language Models.pdf
+Methodological approaches synthesis:
+- General-purpose LLMs: Use prompt engineering, fine-tuning, and retrieval to generate parallel code. Strengths include flexibility and coverage of common paradigms. Limitations: inefficiency, poor performance on complex/unstructured problems, and variable results. Over time, field evolved from generic code generation to domain-specific evaluation and benchmarking (Nichols et al., 2024; Chen et al., 2021; Chaturvedi et al., 2024).
+- Domain-specific fine-tuned LLMs (HPC-Coder, -V2): Use transfer learning/adapters on targeted datasets; outperform general models in domain tasks but rely on high-quality, diverse data, risk overfitting, and may not generalize beyond HPC. Recent advances exploit synthetic data, custom tokenizers, and multi-stage fine-tuning (Nichols et al., 2024).
+- Prompt engineering/code translation: Design prompts specifying programming model/context/task, use exemplars/templates, and dynamic prompts. Enables translation and cross-paradigm code gen, but prompt crafting is labor-intensive, performance still bottleneck, and results rely heavily on model's underlying capabilities (Nichols et al., 2024).
+- Benchmarking (ParEval): Systematic prompts across problems/frameworks; measures correctness, speedup, efficiency, scalability. Highlights persistent LLM weaknesses: low real resource utilization, poor MPI/complex code generation. Spurs field progress, defines SOTA (Nichols et al., 2024).
+
+Critical gaps:
+- Methodological: Limited/dataset bias, evaluation metrics prioritize correctness over performance, prompt+model interaction unstable/unexplained, ablation studies lacking. Difficulty benchmarking true scalability/robustness in real-world settings. (Nichols et al., 2024; Chaturvedi et al., 2024; Chen et al., 2021; Schmitz et al., 2024)
+- Theoretical: LLMs limited in reasoning about data dependencies/sync, especially for unstructured, complex problems. No unified understanding of scaling, efficiency, or adaptation to new paradigms. Models degrade with complexity (Nichols et al., 2024).
+- Application/population: Underrepresentation of frameworks (HIP, Kokkos), real-world workloads, and diverse user contexts limits generalizability (Chaturvedi et al., 2024).
+- Measurement: Current pass@k/speedup/efficiency miss robustness, security, integration-readiness, and fail to capture full range of production needs (Nichols et al., 2024; Schmitz et al., 2024).
+
+Cross-pollination:
+- Program synthesis, formal verification, compiler optimization, and AI planning being fused with LLM workflows to aid correctness and efficiency (Chen et al., 2021; Schmitz et al., 2024). Retrieval-augmented generation (RAG), code search, and human-in-the-loop strategies boost code diversity and factuality (NeurIPS-2020 RAG paper). Serial code generation serves as a baseline for parallel, and cross-paradigm translation is built on shared abstractions. Potential for advances from software verification, knowledge representation, and neuro-symbolic reasoning.
+
+Future directions:
+- Domain-adaptive fine-tuning, performance-focused LLMs, benchmark evolution (ParEval, synthetic data), and integration with code analysis/optimization/verification tools. Need to close real-world efficiency gaps, enable robust, deployable pipelines, and improve resource scaling (Nichols et al., 2024; HPC-Coder; ParEval).
+- Barriers: Dataset scarcity/quality, compute/memory cost, integration friction in HPC pipelines, code correctness/safety, robustness in deployment environments (Chaturvedi et al., 2024; Chen et al., 2021; Nichols et al., 2024).
+Task: Literature survey on parallel code generation using LLMs.
+
+### Step 1: Initial Exploration
+
+Core Questions:
+1. What is parallel code generation when using Large Language Models (LLMs)?
+2. What is the historical context—how did the field evolve from general code generation and parallel computing?
+3. What are the core challenges in using LLMs for parallel code generation?
+4. What milestones and breakthroughs have occurred (e.g. benchmarks, techniques)?
+5. What is the current state-of-the-art in parallel code generation using LLMs?
+
+Ready to query the oracle for broad foundational information.
+Summary of Initial Exploration:
+- Parallel code generation using LLMs: Automatically producing code that runs concurrently (across CPUs/GPUs), leveraging LLMs prompted to create code for MPI, OpenMP, CUDA, Kokkos, etc. [Nichols et al., 2024; HPC-Coder V2].
+- Origins: Evolved from general AI code generation (rule-based → deep learning), with the transition to parallelism driven by HPC needs. Key datasets: HPC-Instruct, benchmarks like ParEval. [Chen et al., 2021; Nichols et al., 2024; Chaturvedi et al., 2024].
+- Key challenges: Reasoning about parallelism (synchronization, data distribution), lack of high-quality parallel code data, difficulties with complex models, poor test coverage, and inefficient generated code [Nichols et al., 2024].
+- Breakthroughs: Pass@k metrics (>70%), advanced models (RAG, Codex, GPT-4), translation between parallel models (serial→OpenMP/MPI), and strong code generation on benchmarks. Closed-source models still outperform open-source ones but open-source is catching up. [Nichols et al., 2024; Chen et al., 2021; Chaturvedi et al., 2024].
+- Current SOTA: GPT-4 gets high code correctness but not speed/efficiency. Best parallel efficiency ~13% of theoretical, translation easier than generation-from-scratch. Performance and scalability still lag, especially for complex problems. [Nichols et al., 2024].
+
+---
+
+Ready to proceed to identify 3-4 methodological approaches (next step: Methodological Investigation).
+Summary of Methodological Approaches:
+
+1. Direct Generation from Prompts: Prompt LLMs to directly write parallel code (e.g., MPI, OpenMP, CUDA, Kokkos). Simple, but effectiveness depends on prompt quality and model capacity. Tends to struggle on correctness and efficiency for complex parallel logic. [Nichols et al., 2024; Schmitz et al., 2024]
+
+2. Serial-to-Parallel Translation: Provide serial code to LLM and prompt translation to parallel variants (especially OpenMP/MPI). Most effective when code similarity is high, helps automate annotation/insertion of directives, but struggles with complex semantics and non-trivial dependency issues. [Nichols et al., 2024; Chaturvedi et al., 2024]
+
+3. Retrieval-Augmented Generation (RAG): Augments generation by retrieving relevant examples/documentation to guide the LLM. Shows improved factuality, correctness, and context sensitivity; more robust for knowledge-intensive and less-frequently seen parallel tasks. Theoretically grounded in blending parametric and non-parametric memory. [NeurIPS-2020; Domain Specialization as the Key to Make Large Language Models Disruptive, 2023]
+
+4. Instruction Tuning / Fine-Tuning: LLMs are (fine) tuned on high-quality, domain-specific data like HPC-Instruct; improves model’s familiarity with parallel idioms and performance. High-quality, diverse, domain-relevant training data has shown greater gains than data volume alone for high-complexity code tasks. [Chaturvedi et al., 2024; Domain Specialization as the Key to Make LLMs Disruptive, 2023]
+
+Other emergent approaches: Modular prompt engineering (DSPy), pipeline-based self-improving workflows.
+
+Ready to proceed to: Critical Gap Analysis (Step 3)
+Critical Gap Analysis Findings:
+
+- Methodological gaps: No standardized evaluation/benchmarking beyond ParEval; absence of shared metrics for efficiency, robustness, or scalability. [Nichols et al., 2024]
+- Theoretical gaps: Poor understanding of how LLMs reason about parallelism/data distribution, especially for complex or scientific computations. [Nichols et al., 2024]
+- Application gaps: Limited reliability/efficiency for complex, unstructured, or less mainstream models (e.g., HIP, multi-framework code); LLMs not well-integrated in real HPC pipelines for performance prediction, kernel optimization, or bug detection. [Nichols et al., 2024]
+- Population/sample gaps: Datasets are limited in both size/diversity, often lacking coverage of unusual problem types, complex dependencies, or underrepresented frameworks. [Nichols et al., 2024]
+- Measurement gaps: Metrics focus on pass@k (correctness), rarely on resource utilization, scalability, or real performance—codes often only achieve ~13% of conceivable efficiency. [Nichols et al., 2024]
+- Explicit limitations for prompt-based generation: Struggles with complex data dependencies, synchronization; generated code often inefficient or only superficially correct; issues greater in less mature code frameworks (e.g. HIP). [Nichols et al., 2024; Chen et al., 2021]
+- Unstated assumptions/edge cases: Models assume representative prompts/high-quality training data; poor robustness on rare, specialized, or edge-case code, especially with hardware-specific or low-frequency parallel paradigms; potential prompt or input bias. [Nichols et al., 2024; Chen et al., 2021]
+- Contradictions/unresolved debates: No single adaptation method (fine-tuning, RAG, etc.) universally best; black-box approaches easy but shallow, white-box/fine-tune more powerful but high risk/cost/overfitting; rudimentary benchmarks complicate comparison; need for unified empirical evaluation. [Nichols et al., 2024; Domain Specialization as the Key to Make LLMs Disruptive, 2023]
+
+Ready for: Cross-pollination and synergy exploration.
+Cross-Pollination and Synergy Findings:
+
+- Methods from adjacent areas (serial code synthesis, NLP transfer learning/fine-tuning, prompt engineering) directly transferred to parallel code generation: e.g., benchmarks, domain-specific instruction tuning, use of synthetic data, RAG. [Chen et al., 2021; Nichols et al., 2024; Godoy et al., 2023]
+- Program synthesis/program repair/program verification communities provide conceptual frameworks—use of neural methods + formal verification/checking, probabilistic grammar/sequence-to-sequence models, and formalized benchmarks (PSB2, ParEval). [Chen et al., 2021; Goues et al., 2012]
+- Compiler optimization, formal verification, and dataflow analysis inform current approaches: dependency analysis, rule-based hotspot optimization, use of SDFGs, Polyhedral models, test-suite generation/validation, training dataset filtering/labeling. [Schmitz et al., 2024; Chen et al., 2021]
+- Conceptual synergy: Prompt engineering guides modular pipelines; retrieval augmentation supplies dynamic/targeted context; instruction tuning aligns model with complex domain-specific requirements; all can be composed into modular, self-improving code generation workflows (DSPy-like pipeline concept). No fully-unified frameworks yet, but emerging as a research direction. [Nichols et al., 2024; NeurIPS-2020; DSPy, 2023]
+
+Ready for: Future directions, open problems, and emerging trends.
+Future Directions & Open Problems:
+
+- Proposed future work: Improve model safety, alignment, fairness, robustness; standardized benchmarks; enhance external knowledge integration (knowledge graphs, continual updates); meta-learning, hybrid/multi-stage/active learning pipelines; reproducibility and ease of integrating into real HPC pipelines; automatic adaptation to new architectures. [Nichols et al., 2024]
+- Emerging trends: Domain-specific adaptation (e.g., HPC-Coder), external knowledge infusion, multi-tool/pipeline orchestration, interpretable/white-box LLMs, systematic benchmarking, task decomposition, controller LLMs managing domain tools, more explainable models. [Nichols et al., 2024]
+- Practical/computational barriers: High cost/rare data for parallel code training, models’ poor efficiency/robustness, large search space/computational expense, translation is unreliable, updating models as hardware/practices evolve. [Nichols et al., 2024]
+- Theoretical barriers: LLMs don’t yet reason robustly about data movement/synchronization/optimality; poorly model reasoning about performance; struggle to generalize across paradigms; still need deeper theoretical unification. [Nichols et al., 2024]
+- Unlocking advances: Better neural architectures (continual learning, foundation models), structured external knowledge (graphs/ontologies), mathematically informed optimization/rule-based augmentation, performance-portable DSLs, “controller” AI over tool-chains, cross-disciplinary insights into robustness/societal impacts. [Chen et al., 2021; Godoy et al., 2023; Domain Specialization as the Key to Make LLMs Disruptive, 2023]
+
+Ready to outline and draft the full literature survey.
+References for the literature survey on parallel code generation using LLMs:
+1. Nichols et al. - 2024 - Can Large Language Models Write Parallel Code.pdf
+2. Nichols et al. - 2024 - HPC-Coder-V2 Studying Code LLMs Across Low-Resource Parallel Languages.pdf
+3. Schmitz et al. - 2024 - Parallel Pattern Language Code Generation.pdf
+4. Chaturvedi et al. - 2024 - HPC-Coder-V2 Studying Code LLMs Across Low-Resource Parallel Languages.pdf
+5. Chen et al. - 2021 - Evaluating Large Language Models Trained on Code.pdf
+6. Godoy et al. - 2023 - Evaluation of OpenAI Codex for HPC Parallel Programming.pdf
+7. "Domain Specialization as the Key to Make Large Language Models Disruptive" - 2023
+8. NeurIPS, 2020 - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+9. DSPY - Compiling Declarative Language Model Calls Into Self-Improving Pipelines - 2310.03714v1.pdf
