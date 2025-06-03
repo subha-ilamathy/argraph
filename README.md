@@ -1,6 +1,6 @@
 # 🧠 ArGraph: Conversational AI Research Assistant
 
-![ArGraph Banner](./README.assets/argraph_banner.png)
+![ArGraph Banner](./assets/argraph_banner.png)
 
 ArGraph is a full-stack conversational research assistant powered by Large Language Models (LLMs) and knowledge graphs. It enables users to upload domain-specific documents (e.g., PDFs or text), dynamically build an entity-based graph, and interact with an AI assistant to explore the research context using chain-of-thought reasoning.
 
